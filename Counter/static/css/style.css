@@ -1,0 +1,68 @@
+.buttonb {
+    border: solid 10px black;
+    border-radius: 50%;
+    background-color: deeppink;
+    color: aliceblue;
+    margin: 15px;
+}
+.count {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 500px;
+    text-decoration: underline;
+}
+.buttona {
+    margin-right: 150px;
+    background-color: greenyellow;
+    color: indigo;
+    width: 150px;
+    height: 60px;
+    margin-bottom: 10px;
+    border: 10px dashed black;
+    border-radius: 40px;
+    font-weight: bolder;
+    box-shadow:  3px 3px rgb(75, 64, 64);
+    display: flex;
+    align-items: center;
+}
+.stripe1 {
+    display: block;
+    align-items: center;
+    border: solid 10px rgb(128, 110, 110);
+    border-radius:  50%;
+}
+.stripe2 {
+    display: block;
+    align-items: center;
+    margin-top: 75px;
+    border: solid 10px rgb(128, 110, 110);
+    border-radius:  50%;
+}
+.stripe3 {
+    display: block;
+    align-items: center;
+    margin-top: 75px;
+    border: solid 10px rgb(128, 110, 110);
+    border-radius:  50%;
+}
+.stripe4 {
+    display: block;
+    align-items: center;
+    margin-top: 75px;
+    border: solid 10px rgb(128, 110, 110);
+    border-radius:  50%;
+}
+.stripe5 {
+    display: block;
+    align-items: center;
+    margin-top: 75px;
+    border: solid 10px rgb(128, 110, 110);
+    border-radius:  50%;
+}
+.count {
+    margin-left: 600px;
+}
+body {
+    border: solid 5px rgb(255, 217, 0);
+}
